@@ -1,0 +1,22 @@
+The dataset can be found here : https://drive.google.com/file/d/1VRG99lvzfhdC-YA5dfdj_a9IyMCl5WHH/view
+
+The dataset provided consists of the following folders/files:
+1- Brain Cancer
+1- Tumor
+• Train (Images that will be used for training the model)
+• Test (Images that will be used for testing the model)
+• Train_masks (Segmentation masks for the Train folder Images)
+• Test_masks (Segmentation masks for the Test folder Images)
+2- No Tumor
+• Train (Images that will be used for training the model)
+• Test (Images that will be used for testing the model)
+2- Breast Cancer
+a. Benign
+• Train (consists of the training images with their corresponding segmentation masks)
+• Test (consists of the testing images with their corresponding segmentation masks)
+b. Malignant
+• Train (consists of the training images with their corresponding segmentation masks)
+• Test (consists of the testing images with their corresponding segmentation masks)
+c. Normal
+• Train (consists of the training images)
+• Test (consists of the testing images)
